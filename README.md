@@ -1,7 +1,7 @@
 # echols-portfolio
-A brief collection of my academically- and recreationally-motivated Python projects. 
+A brief collection of my academically- and recreationally-motivated Python projects. All the .py files are self-contained; they can be pasted directly into a jupyter notebook, etc.
 
-My most extensive individual coding project is the VUSA (Very unfriendly seating algorithm) which informed my undergraduate thesis, "The very unfriendly seating arrangement problem". The thesis PDF and two self-contained Python files (including some explanation of the process) are included.
+My most extensive individual coding project is the VUSA (Very unfriendly seating algorithm) which informed my undergraduate thesis, "The very unfriendly seating arrangement problem". Details in the beginning of the python files.
 
 Most recently is my work on circulant graphs for my Doctoral Dissertation. The corresponding PDF is "Periodic orbits on 2-regular circulant digraphs". The program "Primitive Periodic Orbits Counter" is straightforward; it takes formulae proven in the paper and calculates them for arbitrary parameters.
 
