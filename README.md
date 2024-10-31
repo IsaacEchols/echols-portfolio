@@ -1,5 +1,5 @@
 # echols-portfolio
-A brief collection of my academically- and recreationally-motivated Python projects. All the .py files are self-contained; they can be pasted directly into a jupyter notebook, etc.
+A brief collection of my academically- and recreationally-motivated Python projects, and related PDFs. All the .py files are self-contained; they can be pasted directly into a jupyter notebook, etc.
 
 My most extensive individual coding project is the VUSA (Very unfriendly seating algorithm) which informed my undergraduate thesis, "The very unfriendly seating arrangement problem". Details in the beginning of the python files.
 
